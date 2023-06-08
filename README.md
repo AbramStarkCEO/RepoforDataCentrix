@@ -1,6 +1,6 @@
 # Projects
 
-These are some of my completed projects, I have others that are more complex, but they are not done yet
+These are some of my completed projects, I have others that are more complex, but they are not done yet so I decided to share these instead.
 
 To run these projects-:
 * Use VSCode or any other suitable IDE
