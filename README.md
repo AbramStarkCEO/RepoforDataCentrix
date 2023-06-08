@@ -8,7 +8,7 @@ To run these projects-:
 * Once inside the prooject run the coommand 'npm i' to install the dependencies
 * Once all dependencies are installed, run the 'npm start' command to run the application
 
-* Here is another project I did, it is a trivia game I built with HTML, CSS plain old Vanilla JavaScript --->  https://stackblitz.com/edit/web-platform-wcadqn?file=index.html
+* Here is another project I did, it is a trivia game I built with HTML, CSS and plain old Vanilla JavaScript --->  https://stackblitz.com/edit/web-platform-wcadqn?file=index.html
 
 Kind Regards,
 Abram Leshika
